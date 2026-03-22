@@ -19,7 +19,7 @@ public:
 };
 
 int main() {
-    // Creating an object of Addition class
+    
     Addition add(5, 2222);
 
     // Displaying the sum
