@@ -33,3 +33,4 @@ int main()
     palindrome p(s);
     return 0;
 }
+//palindrome 
