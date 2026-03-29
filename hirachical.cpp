@@ -22,5 +22,5 @@ int sum;
 };
 
 
-//this is the example of multiple inheritance 
+//this is the example  
 
