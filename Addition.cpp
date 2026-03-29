@@ -12,7 +12,7 @@ public:
         sum = num1 + num2;
     }
 
-    // Function to display the sum
+    
     void displaySum() {
         std::cout << "Sum: " << sum << std::endl;
     }
