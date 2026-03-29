@@ -16,5 +16,6 @@ class def{
 int main()
 {
   def obj;
+//default constructor
 
 }
